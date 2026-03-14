@@ -20,23 +20,23 @@ I specialize in transforming design ideas into **clean, production-ready interfa
 ## 🛠 Tech Stack  
 
 ### 🎨 Design Tools  
-- Figma  
-- Adobe Photoshop  
-- Adobe Illustrator  
-- Canva  
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)  
 
 ### 💻 Frontend Skills  
-- HTML5  
-- CSS3  
-- SCSS / LESS  
-- Bootstrap  
-- JavaScript  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ### 🛒 Platforms  
-- Magento  
-- WordPress  
-- Shopify  
-- Prestashop  
+![Magento](https://img.shields.io/badge/Magento-%23EE672F.svg?style=for-the-badge&logo=magento&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)  
+![Shopify](https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)  
+![Prestashop](https://img.shields.io/badge/Prestashop-%23DF0067.svg?style=for-the-badge&logo=prestashop&logoColor=white)  
 
 ### 📚 Additional Knowledge  
 - Laravel  
@@ -62,6 +62,14 @@ I specialize in transforming design ideas into **clean, production-ready interfa
 - [Europe en Normandie](https://www.europe-en-normandie.eu/)  
 - [Neoma Business School](https://neoma-bs.fr/)  
 - [Allo Solar](https://allo.solar/)  
+
+---
+
+## 📊 GitHub Stats & Activity  
+
+![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepsavani&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsavani&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepsavani&theme=radical)  
 
 ---
 
